@@ -61,13 +61,4 @@ top10_movies/
 └── README.md
 ```
 
----
 
-## 📸 Preview (optional)
-You can add screenshots or GIFs of your movie cards and animations here.
-
----
-
-## 🙌 Author
-
-Created with 🎥 by [your name or GitHub link here]
